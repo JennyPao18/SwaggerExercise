@@ -29,7 +29,8 @@ public class ProductsServiceMap implements ProductsService {
     }
 
     @Override
-    public Product update(Product product, String productId) {
+    public Product update(String ProductId, Product Product) {
         return null;
     }
+
 }
